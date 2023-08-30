@@ -1,5 +1,7 @@
-Nama    : Rakha Fadil Atmojo
+Nama : Rakha Fadil Atmojo
 
-NPM     : 2206082985
+NPM : 2206082985
 
-Kelas   : PBP C
+Kelas : PBP C
+
+Hobi : Tidur
